@@ -7,16 +7,16 @@ public UserInfo GenerateUserInfo()
         LastName = "Poustdouzan",
         Email = "ali.poustdouzan@gmail.com",
         Job = ".Net Developer",
-        YearsOfExperienceInDotNet = 15,
+        YearsOfExperienceInDotNet = 17,
         InterestedIn = new List<string>()
         {
-            ".Net 6",
+            ".Net Framework 2 to Dotnet 9",
             "ASP.NET Core Web API",
-            "EF Core",
+            "EFCore",
             "End-To-End Encryption",
             "SQL Server, T-SQL",
-            "Software Architecture",
-            "Microservice",
+            "Software Architecture (Mostly Onion)",
+            "Microservices",
             "Blazor (Both ServerSide-WebAssembly)"
         },
     };
